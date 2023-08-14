@@ -1,1 +1,25 @@
-/* Write your CSS here! */
+
+element.style {
+	backround: lightcoral;
+}
+p {
+  background-color: pink;
+  margin: 8px;
+}
+html {
+	font-family: sans-serif;
+}
+#mainHeading{
+	text-align: center;
+	color: red;
+}
+.center{
+	text-align: center;
+	color: gray;
+}
+#testP{
+	text-align: right;
+}
+.funParagraph{
+	color: green
+}
